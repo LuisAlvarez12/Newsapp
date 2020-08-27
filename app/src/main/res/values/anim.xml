@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="default_anim_speed">250</integer>
+    <integer name="default_anim_offset">50</integer>
+
+    <!-- Performer Animation Times -->
+    <integer name="delay_max_shared_element_transition">500</integer>
+    <integer name="delay_performer_transition">400</integer>
+    <integer name="slide_production_list">400</integer>
+    <integer name="slide_alpha_production_list">150</integer>
+    <integer name="performer_title_fade">150</integer>
+    <integer name="slide_down_alpha_production_list">300</integer>
+    <integer name="slide_top_buttons">300</integer>
+    <integer name="alpha_top_buttons">150</integer>
+    <integer name="placeholder_fragment_time">500</integer>
+    <integer name="shared_element_transition">250</integer>
+
+    <!-- Splash Screen Times -->
+    <integer name="home_logo_scale_out">330</integer>
+    <integer name="splash_bg_offset">150</integer>
+    <integer name="splash_bg_slide_up">330</integer>
+    <integer name="home_fragment_enter_delay">700</integer>
+    <integer name="bottom_nav_enter_delay">500</integer>
+
+    <!-- Filter Picker Height Animation Time -->
+    <integer name="change_picker_height">200</integer>
+
+    <!-- Spotify Sync Animation Time -->
+    <integer name="modal_fall_down_duration">300</integer>
+    <integer name="modal_scale_duration">300</integer>
+    <integer name="modal_fall_down_start_offset">100</integer>
+    <integer name="modal_scale_start_offset">250</integer>
+
+    <!-- Performer Search Animation Time -->
+    <integer name="performer_search_shared_total_time">350</integer>
+    <integer name="performer_search_delay">450</integer>
+    <integer name="performer_search_cancel_delay">150</integer>
+    <integer name="performer_search_cancel_duration">100</integer>
+    <integer name="performer_search_fade_in">300</integer>
+    <integer name="performer_search_icon_duration">150</integer>
+    <integer name="performer_search_icon_delay">200</integer>
+
+    <!-- Production Animation Time -->
+    <integer name="static_map_animation_duration">1000</integer>
+    <integer name="production_section_container_delay">50</integer>
+
+    <!-- Ticket Details -->
+    <integer name="ticket_details_default_animation_duration">200</integer>
+    <integer name="ticket_details_small_map_delay">150</integer>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingScaffoldingView">
+        <attr name="animStartColor" format="color|reference" />
+        <attr name="animEndColor" format="color|reference" />
+    </declare-styleable>
+</resources>

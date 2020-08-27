@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    >
+
+  <translate
+      android:duration="@integer/slide_top_buttons"
+      android:fromYDelta="0"
+      android:toYDelta="-50%"
+      android:interpolator="@android:anim/decelerate_interpolator"
+      />
+
+  <alpha
+      android:fromAlpha="1"
+      android:toAlpha="0"
+      android:duration="@integer/alpha_top_buttons"
+      android:interpolator="@android:anim/decelerate_interpolator"
+      />
+
+</set>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenLibrary</string>
+    <string name="goodnews">goodnews.</string>
+    <string name="guardian_api">powered by The Guardian</string>
+</resources>

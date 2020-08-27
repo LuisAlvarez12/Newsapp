@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="section_header_trending">Trending Now</string>
+    <string name="section_header_police">Police</string>
+    <string name="section_header_covid">Covid</string>
+</resources>
